@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Investment Calculator React](https://tic-tac-toe-gamereact.netlify.app/)
+- Live Site URL: [Investment Calculator React](https://investment-calculator-react-ds.netlify.app/)
 
 ## My process
 
